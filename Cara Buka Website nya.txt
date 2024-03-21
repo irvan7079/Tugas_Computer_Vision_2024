@@ -1,2 +1,0 @@
-Jalankan command ini pada terminal setelah jalankan program pada main.py:
-streamlit run main.py
